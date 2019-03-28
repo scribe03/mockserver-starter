@@ -2,6 +2,6 @@
 
 Installation: 
 
-$ git clone https://github.com/lunargorge/json-server-starter.git  
+$ git clone https://github.com/scribe03/mockserver-starter.git  
 $ cd json-server-starter  
 $ npm run start
