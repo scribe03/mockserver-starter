@@ -3,5 +3,5 @@
 Installation: 
 
 $ git clone https://github.com/scribe03/mockserver-starter.git  
-$ cd json-server-starter  
+$ cd mockserver-starter  
 $ npm run start
